@@ -33,5 +33,24 @@ This will start the python script
 
 #Steps how it works:
 1. Layout of the Front-End Interface
+
 https://cloud.githubusercontent.com/assets/15226944/16644254/682df3ac-43d0-11e6-9185-4aa25f5141ba.jpg
+
+2. Start the NodeJS app using nodemon as shown
+https://cloud.githubusercontent.com/assets/15226944/16644430/c66cd7de-43d1-11e6-9c0f-9bf34e008b0f.jpg
+
+3. Start the Python Script in the command prompt as shown:
+https://cloud.githubusercontent.com/assets/15226944/16644435/d25c335a-43d1-11e6-93ea-79552e33860c.jpg
+
+4. After the Process cards button is pressed the cards are processed in real time by the python script and shown at the front-end interface in real-time.
+https://cloud.githubusercontent.com/assets/15226944/16644439/dba88242-43d1-11e6-85d9-07e044a4a334.jpg
+
+5. The final card generated is stored in output folder and can be viewed using view card
+https://cloud.githubusercontent.com/assets/15226944/16644445/e4157c64-43d1-11e6-909b-391969e27827.jpg
+
+#Deployment
+In order to deploy the app you will need three seperate instances
+1. **Python Script** instance
+2. **Apache apollo** instance
+3. **Node js app** instance
 
